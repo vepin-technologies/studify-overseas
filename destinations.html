@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Destinations & Universities | STUDIFY Overseas</title>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpeg" href="Logo.jpeg">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg fixed-top glass-nav">
+        <div class="container">
+            <a class="navbar-brand d-flex align-items-center" href="index.html">
+                <img src="Logo.jpeg" alt="STUDIFY Logo" height="50" class="me-2 rounded shadow-sm">
+            </a>
+            <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <i class="fa-solid fa-bars-staggered text-primary"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="destinations.html">Study Destinations</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#universities">Universities</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#courses">Courses</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.html#scholarships">Scholarships</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.html#contact">Contact</a></li>
+                </ul>
+                <div class="d-flex align-items-center gap-3 mt-3 mt-lg-0">
+                    <a href="index.html#evaluate" class="btn btn-primary rounded-pill px-4 fw-semibold cta-btn">FREE COUNSELLING</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header text-center">
+        <div class="page-header-bg" style="background-image: url('https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&q=80&w=2074');"></div>
+        <div class="container position-relative z-1">
+            <h1 class="display-4 fw-bold mb-3">Explore Global Destinations</h1>
+            <p class="lead text-light opacity-75 max-w-700 mx-auto">We help you choose the right country, course and university based on your profile, career goals and financial situation.</p>
+        </div>
+    </header>
+
+    <!-- Countries Grid -->
+    <section class="py-7 bg-light">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-4 reveal-up">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&q=80&w=800" alt="Study in UK">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in UK</h3>
+                            <p class="mb-0 text-light opacity-75 small">Shorter duration, globally recognized degrees.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 100ms;">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?auto=format&fit=crop&q=80&w=800" alt="Study in Ireland">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in Ireland</h3>
+                            <p class="mb-0 text-light opacity-75 small">Hub for Tech & Pharma, friendly environment.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 200ms;">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315?auto=format&fit=crop&q=80&w=800" alt="Study in USA">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in USA</h3>
+                            <p class="mb-0 text-light opacity-75 small">Unmatched research opportunities and flexibility.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 reveal-up">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&q=80&w=800" alt="Study in Australia">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in Australia</h3>
+                            <p class="mb-0 text-light opacity-75 small">High standard of living, excellent post-study rights.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 100ms;">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&q=80&w=800" alt="Study in Germany">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in Germany</h3>
+                            <p class="mb-0 text-light opacity-75 small">World-class engineering, low tuition fees.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 200ms;">
+                    <a href="#" class="destination-card shadow-sm">
+                        <img src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?auto=format&fit=crop&q=80&w=800" alt="Study in Canada">
+                        <div class="destination-overlay">
+                            <h3 class="fw-bold mb-1">Study in Canada</h3>
+                            <p class="mb-0 text-light opacity-75 small">Welcoming culture, clear immigration pathways.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Universities Section -->
+    <section id="universities" class="py-7 bg-white">
+        <div class="container">
+            <div class="text-center max-w-700 mx-auto mb-5 reveal-up">
+                <h5 class="text-primary fw-bold text-uppercase tracking-wider mb-2">Network</h5>
+                <h2 class="display-5 fw-bold mb-4">Our University Network</h2>
+            </div>
+            
+            <div class="card bg-light border-0 rounded-4 p-4 mb-5 reveal-up">
+                <div class="row g-3">
+                    <div class="col-md-3">
+                        <select class="form-select">
+                            <option>Any Country</option>
+                            <option>UK</option>
+                            <option>USA</option>
+                            <option>Ireland</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select class="form-select">
+                            <option>Any Course</option>
+                            <option>Computer Science</option>
+                            <option>Business MBA</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <select class="form-select">
+                            <option>Any Degree Level</option>
+                            <option>Bachelor's</option>
+                            <option>Master's</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <button class="btn btn-primary w-100 fw-bold">Search Universities</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row g-4">
+                <!-- Placeholder University Cards -->
+                <div class="col-md-6 col-lg-4 reveal-up">
+                    <div class="card border border-light-subtle shadow-sm rounded-4 h-100 hover-lift">
+                        <div class="card-body p-4">
+                            <h5 class="fw-bold mb-1">Global Tech University</h5>
+                            <p class="text-muted small mb-3"><i class="fa-solid fa-location-dot me-1"></i> London, UK</p>
+                            <div class="mb-3">
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">Computer Science</span>
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">Data Science</span>
+                            </div>
+                            <p class="small text-secondary mb-4"><strong>Intakes:</strong> Sept, Jan<br><strong>Scholarships:</strong> Up to £3,000</p>
+                            <a href="index.html#evaluate" class="btn btn-outline-dark w-100 rounded-pill">Check Eligibility</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 100ms;">
+                    <div class="card border border-light-subtle shadow-sm rounded-4 h-100 hover-lift">
+                        <div class="card-body p-4">
+                            <h5 class="fw-bold mb-1">Trinity Business School</h5>
+                            <p class="text-muted small mb-3"><i class="fa-solid fa-location-dot me-1"></i> Dublin, Ireland</p>
+                            <div class="mb-3">
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">MBA</span>
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">Finance</span>
+                            </div>
+                            <p class="small text-secondary mb-4"><strong>Intakes:</strong> Sept<br><strong>Scholarships:</strong> Merit based</p>
+                            <a href="index.html#evaluate" class="btn btn-outline-dark w-100 rounded-pill">Check Eligibility</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div class="col-md-6 col-lg-4 reveal-up" style="transition-delay: 200ms;">
+                    <div class="card border border-light-subtle shadow-sm rounded-4 h-100 hover-lift">
+                        <div class="card-body p-4">
+                            <h5 class="fw-bold mb-1">State University NY</h5>
+                            <p class="text-muted small mb-3"><i class="fa-solid fa-location-dot me-1"></i> New York, USA</p>
+                            <div class="mb-3">
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">Engineering</span>
+                                <span class="badge bg-soft-primary text-primary me-1 mb-1">Healthcare</span>
+                            </div>
+                            <p class="small text-secondary mb-4"><strong>Intakes:</strong> Fall, Spring<br><strong>Scholarships:</strong> Yes</p>
+                            <a href="index.html#evaluate" class="btn btn-outline-dark w-100 rounded-pill">Check Eligibility</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Courses Section -->
+    <section id="courses" class="py-7 bg-light">
+        <div class="container">
+            <div class="text-center max-w-700 mx-auto mb-5 reveal-up">
+                <h5 class="text-primary fw-bold text-uppercase tracking-wider mb-2">Programs</h5>
+                <h2 class="display-5 fw-bold mb-4">Popular Courses</h2>
+            </div>
+            
+            <div class="row g-3">
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Computer Science & IT</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Artificial Intelligence</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Data Science</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Cybersecurity</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Business Analytics</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">MBA & Management</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Engineering</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Healthcare</a></div>
+                <div class="col-md-4 col-sm-6 reveal-up"><a href="index.html#evaluate" class="btn btn-white bg-white w-100 py-3 rounded-3 shadow-sm hover-lift fw-semibold text-dark text-decoration-none">Finance</a></div>
+            </div>
+            
+            <div class="text-center mt-5 reveal-up">
+                <a href="index.html#evaluate" class="btn btn-primary rounded-pill px-5 py-3 fw-bold shadow">Find Universities for My Profile</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white pt-6 pb-4">
+        <!-- Kept identical to index.html -->
+        <div class="container">
+            <div class="row gy-5 mb-5">
+                <div class="col-lg-4 pe-lg-5">
+                    <img src="Logo.jpeg" alt="STUDIFY Logo" height="60" class="mb-4 rounded bg-white p-1">
+                    <p class="text-light opacity-75 mb-4">Simplifying international education decisions since 2019.</p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="fw-bold mb-4">Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><a href="index.html" class="text-light opacity-75 text-decoration-none">Home</a></li>
+                        <li class="mb-2"><a href="services.html" class="text-light opacity-75 text-decoration-none">Services</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <h5 class="fw-bold mb-4">Contact Us</h5>
+                    <ul class="list-unstyled contact-info">
+                        <li class="d-flex mb-3 align-items-center">
+                            <i class="fa-solid fa-phone me-3 text-primary"></i>
+                            <a href="tel:8328441994" class="text-light opacity-75 text-decoration-none">(832) 844-1994</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <a href="https://wa.me/8328441994?text=Hi" target="_blank" class="whatsapp-float shadow-lg d-flex align-items-center justify-content-center"><i class="fa-brands fa-whatsapp"></i></a>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

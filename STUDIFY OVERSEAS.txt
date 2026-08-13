@@ -1,346 +1,0 @@
-STUDIFY OVERSEAS — OFFICIAL WEBSITE BRIEF
-1. Core objective
-The website should communicate within the first 5–10 seconds:
-Who are we? STUDIFY Overseas Consultants.
-What do we do? Overseas education counselling, university admissions, scholarships, education loans, documentation, visa guidance and pre-departure support.
-Why should a student trust us? Founder-led guidance, experience since 2019, transparent counselling and personalized university selection.
-What should the visitor do next? WhatsApp / Call / Book Free Profile Evaluation.
-The website must be designed primarily for lead conversion, not merely appearance.
-
-2. Brand positioning
-Position STUDIFY as:
-Personalized. Transparent. Founder-led overseas education guidance.
-Avoid presenting it as:
-"We send everyone abroad."
-The communication should instead feel like:
-We help students choose the right country, course and university based on their profile, career goals and financial situation.
-That will age much better as your public reputation grows.
-
-3. Homepage structure
-HERO SECTION
-Immediately visible without scrolling:
-Headline:
-Your Study Abroad Journey Starts With the Right Guidance.
-Supporting line:
-Personalized university selection, admissions, scholarships, education loans and visa guidance for students planning higher education overseas.
-Buttons:
-Get Free Profile Evaluation
-WhatsApp Us
-Secondary text:
-Founder-led guidance | Supporting students since 2019
-I prefer "Supporting students since 2019" over putting an uncertain student count here.
-
-4. Founder section — very important
-Use a professional photograph of you.
-Heading
-Meet Sai Teja Mudrakola Founder — STUDIFY Overseas
-Copy:
-Sai Teja started his journey in overseas education guidance in 2019 after personally experiencing how confusing university selection, admissions and international education planning can be.
-That experience became the foundation for STUDIFY Overseas — with a focus on transparent information, personalized counselling and helping students make informed decisions about their future.
-Today, he personally leads STUDIFY's counselling approach and works with students planning higher education across major international study destinations.
-Then:
-Since 2019
-Founder-led counselling
-Multiple study destinations
-End-to-end student guidance
-Important PR point
-Don't write:
-"Youngest leading consultant"
-"No.1 Consultant"
-"Best consultant in Hyderabad"
-"450+ successfully sent"
-unless those claims can actually be substantiated.
-Your founder story itself is enough.
-
-5. Countries section
-Create dedicated landing pages rather than putting everything on one page.
-Main navigation:
-Study in UK Study in Ireland Study in Australia Study in USA Study in Germany Study in France Study in Canada Study in New Zealand Study in Europe
-Each destination page should contain:
-Country overview → Why study there → Intakes → Popular courses → Entry requirements → English-language requirements → Estimated tuition → Living costs → Scholarships → Student work regulations → Post-study options → Application process → Visa overview → FAQs → CTA.
-Do not use generic copy pasted across countries.
-
-6. University section
-Create:
-Our University Network
-Allow filters:
-Country Course Degree level Intake
-Each university card can display:
-University name Location Popular programs Available intakes Scholarship information "Check Eligibility"
-But don't publish your commission percentages or B2B partner commission structure anywhere.
-That is internal business information.
-
-7. Courses section
-Create SEO-friendly pages around major student interests.
-Examples:
-Computer Science & IT Artificial Intelligence Data Science Cybersecurity Business Analytics MBA & Management Engineering Healthcare Architecture & Design Animation & VFX Finance Supply Chain Hospitality Public Health Food & Nutrition Agriculture Biotechnology
-Each page should explain:
-Who the course suits Relevant academic backgrounds Career outcomes Top study destinations Typical duration Approximate fees Possible universities CTA: Find Universities for My Profile
-
-8. Free Profile Evaluation
-This should be one of the website's strongest conversion pages.
-Form:
-Full Name
-Phone / WhatsApp
-Email
-Current qualification
-Year of graduation
-Percentage / CGPA
-Backlogs
-Work experience
-Bachelor's or Master's
-Preferred country
-Preferred course
-Preferred intake
-IELTS/PTE/TOEFL status
-Approximate budget
-Upload Resume
-Button:
-Evaluate My Profile
-Confirmation:
-Our counselling team will review your details and contact you with suitable study options.
-Don't ask for passport number, Aadhaar or sensitive financial information at lead-generation stage.
-
-9. STUDIFY services
-Create individual sections/pages for:
-Career & Country Counselling
-Profile analysis and destination selection.
-University Shortlisting
-Course and university matching.
-Application Assistance
-Application documentation and submission support.
-SOP / LOR Guidance
-Position as guidance/review, not fake document creation.
-Scholarship Guidance
-Identifying applicable university and external scholarship opportunities.
-Education Loan Assistance
-Banks/NBFC comparison and process support.
-Visa Guidance
-Documentation, application guidance and interview preparation.
-Pre-Departure Support
-Accommodation, travel preparation and arrival guidance.
-
-10. Student success section
-This can become one of your strongest assets.
-Use real students only and preferably obtain permission to publish their image/name.
-Cards:
-Student photo First name University Country Program Intake
-Example:
-Rohit MSc Artificial Intelligence Ireland September 2026
-Include video testimonials whenever possible.
-Never fabricate testimonials.
-One genuine student's 30-second video is worth more than 20 generic five-star quotes.
-
-11. Reviews
-Integrate verified:
-Google Reviews
-and optionally video testimonials.
-Avoid manually writing hundreds of fake reviews onto the website.
-Headline:
-What Our Students Say
-
-12. Student journey
-Visual timeline:
-1. Profile Evaluation
-→
-2. Country & Course Selection
-→
-3. University Applications
-→
-4. Offer Letter
-→
-5. Financial Planning
-→
-6. Visa Preparation
-→
-7. Pre-Departure
-→
-8. Fly Abroad ✈️
-This makes the process extremely understandable to parents.
-
-13. Parent section
-This is important because parents often finance the student's education.
-Create:
-For Parents
-Content around:
-Student safety University credibility Total cost planning Education loans Accommodation Part-time work rules Post-study opportunities Visa process How STUDIFY communicates with parents
-CTA:
-Speak With a Counsellor
-
-14. Scholarships section
-Instead of:
-"Get ₹10 lakh scholarship guaranteed"
-say:
-Explore Scholarships You May Be Eligible For
-Search/filter:
-Country University Course Intake Scholarship amount
-Clearly mention:
-Scholarships are subject to university eligibility criteria and availability.
-
-15. Education loan page
-Include:
-Secured loans Unsecured loans Bank loans NBFC education loans International lenders where applicable
-Explain:
-Eligibility Co-applicant Income documents Collateral Sanction process Disbursement process
-CTA:
-Check Loan Options
-Never advertise:
-100% loan guaranteed.
-
-16. Visa page
-Create destination-specific visa pages.
-Example:
-/uk-student-visa
-/ireland-student-visa
-/australia-student-visa
-/usa-f1-visa
-Each should cover:
-Eligibility Documents Funds Visa process Interview where applicable Processing stages Common mistakes
-Important disclaimer:
-Visa decisions are made solely by the respective immigration/consular authorities. STUDIFY does not guarantee visa approval.
-This protects the brand.
-
-17. Knowledge Hub / Blog
-This is extremely important for Google SEO.
-Categories:
-Study Abroad Guides Visa Updates University Updates Scholarships Education Loans Country Comparisons Student Life Career Guidance
-Example articles:
-UK September 2027 Intake — Complete Guide
-Ireland Master's Eligibility for Indian Students
-Australia GS Requirement Explained
-Germany APS Process for Indian Students
-UK vs Ireland for Master's Students
-How Much Money Is Required to Study in Australia?
-Every article should have:
-Reviewed/Updated date
-and ideally:
-Reviewed by STUDIFY Overseas Counselling Team.
-
-18. Your public/social-media section
-Create:
-Follow Sai Teja
-Embed selected Instagram/Reels content.
-Not everything.
-Only:
-	•	Study-abroad education
-	•	Founder story
-	•	Student guidance
-	•	Entrepreneurship/business journey
-	•	Social-impact content
-Then:
-Instagram icon → personal profile
-Instagram icon → STUDIFY
-YouTube if started later.
-LinkedIn.
-This connects your public personality to the institutional brand without turning the business website into a lifestyle page.
-
-19. Social impact
-Since your objective is to create value, this can become important over time.
-Create later:
-STUDIFY Impact
-Examples:
-Free counselling sessions Scholarship awareness programs Student seminars Career-awareness sessions Support for deserving students
-Don't manufacture CSR activities just for content.
-Build the section as real activities happen.
-That becomes powerful PR over several years.
-
-20. About STUDIFY
-Tell the actual story.
-Our Story
-Founded in 2019.
-Our Mission
-To simplify international education decisions through transparent, personalized and responsible guidance.
-Our Vision
-To help students make informed global education choices that create meaningful long-term careers.
-Our Values
-Transparency
-Student First
-Personalization
-Responsibility
-Integrity
-Continuous Learning
-
-21. Contact page
-Include:
-STUDIFY Overseas Consultants
-KPHB / Kukatpally, Hyderabad
-Google Maps embed
-Phone
-WhatsApp
-Email
-Office working hours
-Social-media links
-Get Directions
-WhatsApp Us
-Call Now
-Use the complete official business address only after confirming it is appropriate to publish.
-
-22. WhatsApp integration
-There should be a persistent WhatsApp button on every page.
-On click:
-Hi STUDIFY, I would like a free profile evaluation for studying abroad.
-Then automatically collect:
-Name Bachelor's/Master's Preferred country Intake Resume
-This should feed into your CRM/lead system eventually.
-
-23. Website navigation
-Desktop:
-Home
-Study Destinations ▼
-Universities
-Courses
-Services ▼
-Scholarships
-Student Success
-Resources
-About Us
-Contact
-Button:
-FREE COUNSELLING
-On mobile, keep it extremely simple.
-
-24. Homepage social proof
-Instead of filling the homepage with exaggerated numbers, use factual indicators.
-Example:
-Since 2019
-Multiple Study Destinations
-End-to-End Guidance
-Founder-Led Counselling
-Later, once you have verified CRM data, you can add:
-XXX+ Students Counselled
-XXX+ Offers Received
-XX+ Partner Universities
-But those numbers should come from records.
-
-25. Things that should NOT appear on the website
-This is important.
-Do not publish:
-	•	❌ Fake student numbers.
-	•	❌ "100% visa success."
-	•	❌ "Guaranteed visa."
-	•	❌ "Guaranteed scholarship."
-	•	❌ "Guaranteed PR."
-	•	❌ Fake university partnerships.
-	•	❌ University logos without appropriate authorization.
-	•	❌ Agent commission structures.
-	•	❌ B2B commercial contracts.
-	•	❌ Student bank statements.
-	•	❌ Loan documents.
-	•	❌ Passport details.
-	•	❌ CAS/I-20 numbers.
-	•	❌ Personal student financial information.
-	•	❌ Competitor criticism.
-	•	❌ "Other consultants cheat students."
-	•	❌ Fake Google reviews.
-	•	❌ Purchased testimonials.
-	•	❌ False "No.1 in Hyderabad" claims.
-This is where good PR protects you.
-
-26. Your positioning versus competitors
-Never say:
-"Other consultancies are commercial."
-Instead:
-At STUDIFY, we believe every student's profile is different. Our counselling therefore starts by understanding the student's academic background, financial situation and long-term career goal before recommending options.
-You're communicating your difference without attacking anybody.
-
-
